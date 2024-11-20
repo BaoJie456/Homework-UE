@@ -3,6 +3,24 @@ This is a repository for my personal UE homework.
 
 
 
+## 工程关键文件
+
+​	|--Homework_*
+
+​		|--Project
+
+​			|--Config
+
+​			|--Source
+
+​			.vsconfig
+
+​			*.sln
+
+​			*.uproject
+
+
+
 ## Homework_1
 
 ### 第一周作业：
